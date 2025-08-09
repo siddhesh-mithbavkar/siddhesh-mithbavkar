@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on building real-world UI projects and improving my GitHub portfolio  
 - 🌱 I’m currently learning **Node.js, Express.js, and MongoDB** to become a Full Stack Dev  
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/sid6398)  
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/siddhesh-mithbavkar)  
 - 💬 Ask me about **ReactJS, JavaScript, Bootstrap, TailwindCSS**  
 - 📫 How to reach me: **siddheshmithbavkar98@gmail.com**  
 - ⚡ Fun fact: I love crafting pixel-perfect UIs and learning design tricks ✨
